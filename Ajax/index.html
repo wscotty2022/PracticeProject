@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function () {
+            console.log(xhr.readyState);
+            // xhr.readyState
+            // 1: open() is called
+            // 2: send() is called
+            // 3: loading, responseText holds partial data
+            // 4: the operation is complete
+        };
+        //xhr.open('GET', '')
+    </script>
+</body>
+</html>
