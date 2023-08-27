@@ -1,6 +1,6 @@
 var goods = [
   {
-    pic: './assets/g1.png',
+    pic: './assets/media/g1.png',
     title: '椰云拿铁',
     desc: `1人份【年度重磅，一口吞云】
     √原创椰云topping，绵密轻盈到飞起！
@@ -14,7 +14,7 @@ var goods = [
     price: 32,
   },
   {
-    pic: './assets/g2.png',
+    pic: './assets/media/g2.png',
     title: '生椰拿铁',
     desc: `1人份【YYDS，无限回购】
     现萃香醇Espresso，遇见优质冷榨生椰浆，椰香浓郁，香甜清爽，带给你不一样的拿铁体验！
@@ -26,7 +26,7 @@ var goods = [
     price: 19.9,
   },
   {
-    pic: './assets/g3.png',
+    pic: './assets/media/g3.png',
     title: '加浓 美式',
     desc: `1人份【清醒加倍，比标美多一份Espresso】
     口感更佳香醇浓郁，回味持久
@@ -36,7 +36,7 @@ var goods = [
     price: 20.3,
   },
   {
-    pic: './assets/g4.png',
+    pic: './assets/media/g4.png',
     title: '瓦尔登蓝钻瑞纳冰',
     desc: `1人份【爆款回归！蓝色治愈力量】
     灵感来自下澄明、碧蓝之境---瓦尔登湖。含藻蓝蛋白，梦幻蓝色源自天然植物成分，非人工合成色素，融入人气冷榨生椰浆，椰香浓郁，清冽冰爽；底部添加Q弹小料，0脂原味晶球，光泽剔透，如钻石般blingbling。搭配奶油顶和彩虹色棉花糖，满足你的少女心～
@@ -46,7 +46,7 @@ var goods = [
     price: 38,
   },
   {
-    pic: './assets/g5.png',
+    pic: './assets/media/g5.png',
     title: '椰云精萃美式',
     desc: `1人份【不用吸管 大口吞云！】
 
